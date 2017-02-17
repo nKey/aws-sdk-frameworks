@@ -1,9 +1,9 @@
-# Version 2 of the AWS SDK for iOS
+# Version 2 of the AWS Mobile SDK for iOS
 
 ## Requirements
 
-* iOS 7 and later
-* Xcode 5 and later
+* iOS 8 and later
+* Xcode 7 and later
 
 ## Installation
 
